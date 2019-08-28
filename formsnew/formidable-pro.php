@@ -7,6 +7,7 @@ Plugin URI: https://formidableforms.com/
 Author URI: https://formidableforms.com/
 Author: Strategy11
 Text Domain: formidable-pro
+this is testingggg
 */
 
 if ( ! function_exists( 'load_formidable_pro' ) ) {
