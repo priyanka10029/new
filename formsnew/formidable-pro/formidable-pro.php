@@ -6,8 +6,6 @@ Version: 4.0.04
 Plugin URI: https://formidableforms.com/
 Author URI: https://formidableforms.com/
 Author: Strategy11
-
-avtive on live site
 Text Domain: formidable-pro
 */
 
